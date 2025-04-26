@@ -1,0 +1,7 @@
+Error-Trace-0.01/META.json
+Error-Trace-0.01/META.yml
+lib/Error/Trace.pm
+Makefile.PL
+MANIFEST
+README.md
+t/01-basic.t
